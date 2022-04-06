@@ -1,0 +1,18 @@
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\bin\Debug\lorentz.exe
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\bin\Debug\lorentz.pdb
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\obj\x86\Debug\lorentz.MainForm.resources
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\obj\x86\Debug\lorentz.Properties.Resources.resources
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\obj\x86\Debug\lorentz.exe
+C:\Users\Desmond\Desktop\Projects\Creativity\arch\vs2010\lorentz\obj\x86\Debug\lorentz.pdb
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\bin\Debug\lorentz.exe
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\bin\Debug\lorentz.pdb
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\obj\x86\Debug\lorentz.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\obj\x86\Debug\lorentz.MainForm.resources
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\obj\x86\Debug\lorentz.Properties.Resources.resources
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\obj\x86\Debug\lorentz.csproj.GenerateResource.cache
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\obj\x86\Debug\lorentz.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\obj\x86\Debug\lorentz.exe
+C:\Users\brian\Desktop\researchAssistant\johan\research_Files\2011 - ACASIA Lorentz (Monkey makes poems by combining words)\obj\x86\Debug\lorentz.pdb
